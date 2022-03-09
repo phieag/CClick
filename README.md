@@ -1,9 +1,7 @@
 # CClick
 
-The original game can be found at http://orteil.dashnet.org/cookieclicker/                                                                                                         
+The original game can be found at http://orteil.dashnet.org/cookieclicker/     ozh's site can be found at https://github.com/ozh/cookieclicker                                                                                                    
 All credit goes to ozh and Orteil
-
-This mirror for, errrr, like, educational purpose, either to download for your own offline education or to be played online from http://ozh.github.io/cookieclicker/ if you cannot "educate" yourself on the original URL
 
 How to update
 If the original game updates, here is how you can update the mirror:
