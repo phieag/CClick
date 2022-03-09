@@ -1,7 +1,7 @@
 # CClick
 
-The original game can be found at http://orteil.dashnet.org/cookieclicker/ :
-All credit goes to ozh and Orteil :
+The original game can be found at http://orteil.dashnet.org/cookieclicker/                                                                                                         
+All credit goes to ozh and Orteil
 
 This mirror for, errrr, like, educational purpose, either to download for your own offline education or to be played online from http://ozh.github.io/cookieclicker/ if you cannot "educate" yourself on the original URL
 
